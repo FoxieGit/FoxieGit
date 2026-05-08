@@ -4,7 +4,7 @@
 
 ### Enterprise Software, ERP Platforms & AI-Powered Systems
 
-Foxie builds enterprise-grade ERP solutions, intelligent automation platforms, and AI-powered creative engines for business operations, industrial workflows, and textile design.
+Foxie® builds enterprise-grade ERP solutions, intelligent automation platforms, and AI-powered creative engines for business operations, industrial workflows, and textile design.
 
 <br />
 
