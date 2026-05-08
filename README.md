@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦊 Foxie
+# 🦊 Foxie®
 
 ### Enterprise Software, ERP Platforms & AI-Powered Systems
 
@@ -8,7 +8,7 @@ Foxie® builds enterprise-grade ERP solutions, intelligent automation platforms,
 
 <br />
 
-![Foxie Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,100:ff3d81&height=180&section=header&text=Foxie&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20ERP%20%7C%20Automation%20%7C%20AI%20Creative%20Engines&descAlignY=55&descSize=18)
+![Foxie Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,100:ff3d81&height=180&section=header&text=Foxie®&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20ERP%20%7C%20Automation%20%7C%20AI%20Creative%20Engines&descAlignY=55&descSize=18)
 
 <br />
 
@@ -23,7 +23,7 @@ Foxie® builds enterprise-grade ERP solutions, intelligent automation platforms,
 
 ## 🧠 About Foxie
 
-**Foxie** is a Brazilian software company focused on building modern enterprise systems, ERP platforms, automation tools, and AI-powered products.
+**Foxie®** is a Brazilian software company focused on building modern enterprise systems, ERP platforms, automation tools, and AI-powered products.
 
 Our ecosystem is designed to connect business operations, industrial intelligence, creative workflows, and scalable digital infrastructure.
 
@@ -33,7 +33,7 @@ We build software for companies that need more than simple management tools — 
 
 ## 🚀 What We Build
 
-### 🏢 Foxie ERP
+### 🏢 Foxie® ERP
 
 A complete enterprise resource planning ecosystem designed for real business operations.
 
@@ -54,7 +54,7 @@ Core areas:
 
 ---
 
-### 🎨 Pattern AI Engine
+### 🎨 Foxie® AI
 
 An AI-powered creative engine for textile and pattern design.
 
