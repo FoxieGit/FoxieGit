@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦊 Foxie®
+# 🦊 Foxie
 
 ### Enterprise Software, ERP Platforms & AI-Powered Systems
 
@@ -8,7 +8,7 @@ Foxie® builds enterprise-grade ERP solutions, intelligent automation platforms,
 
 <br />
 
-![Foxie Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,100:ff3d81&height=180&section=header&text=Foxie®&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20ERP%20%7C%20Automation%20%7C%20AI%20Creative%20Engines&descAlignY=55&descSize=18)
+![Foxie Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,100:ff3d81&height=180&section=header&text=Foxie&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20ERP%20%7C%20Automation%20%7C%20AI%20Creative%20Engines&descAlignY=55&descSize=18)
 
 <br />
 
@@ -129,7 +129,7 @@ Focus areas:
 | Product | Status | Description |
 |---|---|---|
 | **Foxie ERP** | In development / production validation | Enterprise ERP platform for business, finance, inventory, sales and production workflows. |
-| **Pattern AI Engine** | Architecture phase | AI-powered system for generating, validating and exporting textile patterns. |
+| **Foxie AI** | Architecture phase | AI-powered system for generating, validating and exporting textile patterns. |
 | **Automation Core** | Internal | Workflow automation, audit logs, approvals and operational intelligence. |
 
 ---
